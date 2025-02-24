@@ -1,5 +1,5 @@
 Basic fleet management weekend project I did:
-- Leverages AWS RDS w/ PostGresSQL + Next.js +
+- Leverages AWS RDS w/ PostgresSQL + Next.js +
 
 Next steps are to add AI Assistant for requesting flights. Flow chart of that below
 
